@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "title": "How Rising Food Prices Are Affecting Nigerians",
+    "content": "The cost of staple foods like rice, beans, and garri has skyrocketed. Many families are adjusting their diets to cope with inflation.",
+    "image_url": "http://localhost:6060/postImages/photo-00.png",
+    "created_at": "2025-03-13T12:00:00Z",
+    "tags": ["Food Prices", "Economy", "Nigeria"]
+  },
+  {
+    "id": 2,
+    "title": "Organic Farming in Nigeria: Is It the Future?",
+    "content": "More farmers are embracing organic techniques to reduce reliance on expensive fertilizers and pesticides. Experts discuss the benefits and challenges.",
+    "image_url": "http://localhost:6060/postImages/photo-01.png",
+    "created_at": "2025-03-12T10:30:00Z",
+    "tags": ["Organic Farming", "Agriculture", "Sustainability"]
+  },
+  {
+    "id": 3,
+    "title": "The Rise of Local Superfoods in Nigerian Diets",
+    "content": "Foods like moringa, bitter leaf, and tiger nuts are becoming popular for their health benefits. Here's why they are gaining attention.",
+    "image_url": "http://localhost:6060/postImages/photo-02.png",
+    "created_at": "2025-03-11T08:45:00Z",
+    "tags": ["Health", "Superfoods", "Nutrition"]
+  },
+  {
+    "id": 4,
+    "title": "How Street Food Vendors Are Coping with Inflation",
+    "content": "From suya sellers to akara vendors, inflation is hitting small businesses hard. Here’s how street food culture is adapting.",
+    "image_url": "http://localhost:6060/postImages/photo-03.jpg",
+    "created_at": "2025-03-10T14:20:00Z",
+    "tags": ["Street Food", "Business", "Nigeria"]
+  },
+
+  {
+    "id": 5,
+    "title": "How Nigeria’s Ban on Foreign Rice is Affecting Local Farmers",
+    "content": "With the ban on rice imports, local farmers are seeing a rise in demand. But is local production enough to meet Nigeria’s food needs?",
+    "image_url": "http://localhost:6060/postImages/photo-04.jpg",
+    "created_at": "2025-03-09T16:00:00Z",
+    "tags": ["Government Policy", "Agriculture", "Economy"]
+  },
+
+  {
+    "id": 6,
+    "title": "Young Nigerians Who Made Millions in Agribusiness",
+    "content": "From poultry farming to cassava processing, these young entrepreneurs have built successful businesses in Nigeria’s agricultural sector.",
+    "image_url": "http://localhost:6060/postImages/photo-05.jpg",
+    "created_at": "2025-03-08T13:45:00Z",
+    "tags": ["Agribusiness", "Youth Empowerment", "Success Stories"]
+  },
+
+  {
+    "id": 7,
+    "title": "The Future of Farming: How AI and Drones are Transforming Agriculture in Nigeria",
+    "content": "Technology is revolutionizing farming in Nigeria. AI-powered irrigation and drones are helping farmers improve productivity.",
+    "image_url": "http://localhost:6060/postImages/photo-06.jpg",
+    "created_at": "2025-03-07T09:30:00Z",
+    "tags": ["Technology", "Innovation", "Farming"]
+  },
+
+  {
+    "id": 8,
+    "title": "10 Traditional Nigerian Recipes You Should Try",
+    "content": "From ekpang nkukwo to nkwobi, here are some traditional Nigerian dishes that are packed with flavor and history.",
+    "image_url": "http://localhost:6060/postImages/photo-07.jpg",
+    "created_at": "2025-03-06T18:20:00Z",
+    "tags": ["Food Culture", "Recipes", "Nigeria"]
+  },
+
+  {
+    "id": 9,
+    "title": "How Climate Change is Affecting Food Security in Nigeria",
+    "content": "Erratic rainfall and rising temperatures are making farming more difficult. Experts discuss possible solutions for Nigeria’s food crisis.",
+    "image_url": "http://localhost:6060/postImages/photo-08.jpg",
+    "created_at": "2025-03-05T07:15:00Z",
+    "tags": ["Climate Change", "Food Security", "Agriculture"]
+  },
+
+  {
+    "id": 10,
+    "title": "The Rise of Healthy Eating in Nigeria: What’s Trending?",
+    "content": "More Nigerians are switching to whole grains, plant-based diets, and organic food. Here’s why healthy eating is becoming a trend.",
+    "image_url": "http://localhost:6060/postImages/photo-09.jpg",
+    "created_at": "2025-03-04T11:10:00Z",
+    "tags": ["Health", "Nutrition", "Food Trends"]
+  }
+]
