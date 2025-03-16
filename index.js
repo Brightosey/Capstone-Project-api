@@ -14,8 +14,9 @@ app.use(cors());
 app.use(express.json());
 app.use(express.static("public"));
 
-app.use("/api/slides", slidesRoute);
-app.use("/api/newsfeed", postsRoute);
+app.use("/slides", slidesRoute);
+app.use("/newsfeed", postsRoute);
+
 
 
 app.get("/", (req,res) => {
