@@ -3,6 +3,7 @@ import cors from "cors";
 import "dotenv/config";
 import slidesRoute from "./Routes/slides.js";
 import postsRoute from "./Routes/posts.js";
+import messagesRoute from "./Routes/message.js";
 
 const app = express();
 
@@ -16,6 +17,7 @@ app.use(express.static("public"));
 
 app.use("/slides", slidesRoute);
 app.use("/newsfeed", postsRoute);
+app.use("/messages", messagesRoute);
 
 
 
