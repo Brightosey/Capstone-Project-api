@@ -10,8 +10,7 @@ if (!fs.existsSync("./data/messages.json")) {
 
 // To post a message
 
-router.post("/:id", (req, res) => {
-  const { id } = req.params;
+router.post("/", (req, res) => {
   const { name, email, message } = req.body;
 
   if (!name || !email || !message) {
@@ -21,7 +20,6 @@ router.post("/:id", (req, res) => {
   // Create a new message object
   const newMessage = {
     id: uuidv4(),
-    userId: id, // Store the user ID from the URL
     name,
     email,
     message,
