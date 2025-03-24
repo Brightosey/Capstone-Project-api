@@ -1,6 +1,6 @@
 [
     {
-      "image": "http://localhost:6060/slideImages/photo-00.png",
+      "image": "/slideImages/photo-00.png",
       "company": "Relo Foods Limited",
       "title": "Bridging Farmers to Market",
       "text": "Empowering farmers with cutting-edge food processing technology to bring fresh produce directly to consumers, ensuring quality and sustainability every step of the way.",
@@ -8,7 +8,7 @@
       "buttonLink": "/about"
     },
     {
-      "image": "http://localhost:6060/slideImages/photo-01.png",
+      "image": "/slideImages/photo-01.png",
       "company": "Relo Foods Limited",
       "title": "Sustaining Agriculture",
       "text": "Innovating agriculture through technology, bringing farmers closer to the future with sustainable practices and smarter solutions for every farm.",
@@ -16,7 +16,7 @@
       "buttonLink": "/services"
     },
     {
-      "image": "http://localhost:6060/slideImages/photo-02.png",
+      "image": "/slideImages/photo-02.png",
       "company": "Relo Foods Limited",
       "title": "Harvesting a Better Tomorrow",
       "text": "We believe in global empowerment through agriculture—connecting farmers to resources and markets for a sustainable, prosperous future for all.",
@@ -24,7 +24,7 @@
       "buttonLink": "/contact"
     },
     {
-      "image": "http://localhost:6060/slideImages/photo-03.png",
+      "image": "/slideImages/photo-03.png",
       "company": "Relo Foods Limited",
       "title": "Direct sourcing",
       "text": "By sourcing directly from farms, we ensure transparency, fairness, and the freshest products, creating stronger relationships within the supply chain.",
