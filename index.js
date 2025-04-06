@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 6060;
 const CORS_ORIGIN = process.env.CORS_ORIGIN;
 
 // Middleware
-app.use(cors());
+app.use(cors({ origin: "https://relofoods.ng" }));
 app.use(express.json());
 app.use(express.static("public"));
 
@@ -19,14 +19,10 @@ app.use("/slides", slidesRoute);
 app.use("/newsfeed", postsRoute);
 app.use("/messages", messagesRoute);
 
-
-
-app.get("/", (req,res) => {
-    res.send("Jesus is the WAY, the TRUTH, and the LIFE");
+app.get("/", (req, res) => {
+  res.send("Jesus is the WAY, the TRUTH, and the LIFE");
 });
 
-app.listen(PORT, (req,res) => {
-    console.log(`The server is running on ${PORT}.`);
+app.listen(PORT, (req, res) => {
+  console.log(`The server is running on ${PORT}.`);
 });
-
-    
